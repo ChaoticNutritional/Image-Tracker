@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="03ddf40c89168ac308a080284249e335" size="564.000000 423.000000" />
+    <ImageTarget name="shining" size="400.000000 400.000000" />
+    <ImageTarget name="mona" size="21.000000 31.290001" />
+    <ImageTarget name="abe948bda76efaf148c8c629eb2b068a" size="207.000000 110.788734" />
     <ImageTarget name="road" size="1.000000 0.695796" />
     <ImageTarget name="rocks" size="1.000000 0.697674" />
     <ImageTarget name="woodchips" size="1.000000 0.697778" />
+    <CylinderTarget name="sodacan" sideLength="95.000000"/>
   </Tracking>
 </QCARConfig>
