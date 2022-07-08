@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
+    <ImageTarget name="FLoral2" size="228.600006 171.449997" />
+    <ImageTarget name="ID-Template" size="85.724998 52.387501" />
+    <ImageTarget name="FLoral" size="9.000000 6.750000" />
     <ImageTarget name="03ddf40c89168ac308a080284249e335" size="564.000000 423.000000" />
     <ImageTarget name="shining" size="400.000000 400.000000" />
     <ImageTarget name="mona" size="21.000000 31.290001" />
