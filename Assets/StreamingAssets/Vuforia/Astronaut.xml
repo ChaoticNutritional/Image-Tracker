@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="Astronaut" motionHint="adaptive" trackingMode="default"/>
+
+</Tracking>
+
+<Assembly name="Astronauts_assembly" assemblyId="5e350d3c7d8b44ecaddd062109d7826e">
+<Part name="Astronaut" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="viewpoint_0000" translation="0.0271556 -0.00880852 0.107336" rotation="AD: 0.9999999999851323 0.003316105004430434 -0.0018936335685878001 120.544" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

@@ -17,14 +17,14 @@ MonoBehaviour:
     ufoLicenseKey: QVltajJwLy8vLy8vQUFBQUtLSzJQQ1dvbWt3OXQxNlRiZEREVHUwODhhQ21VdDZOUVpZV1REWS82dDFHeUU2OWRseXVjYnI3cU0yZG8vc1NCS2hxMFpMa0R5MkJUdTR1TlVMVTVhZTlZWlM4c1VaaVU0RzM2K2RPR2szemZ0VVhPMkM0WThlTlNsa2tFNER1b3h6MllDMTBuUWhZMDRjS0k0N0RkNUdLQ2xCVnUwN1c3bXpVVUVNMmFQUGt2Zy84R0toUXlPQkRmbC81WHBXcFVjQnV2OSt3OEd2M2l1YUlPVzFyeHZFdDVWc2lxYkVCTEVnclpnK2ZtcEhPTWxDemVaLy9CU0VrYmZ3RVBPRmRmTVpjT2N1UGdIRzFvTlRyck1qUUZRYThxTGpLOVQzNXpsd0dZQVFGRXZ6djczNHRtUHlMa2cxcXBNMC9icFhSZEZpNS94MVZVd2FVbzhPeXBQTVFxaWRhbnUrT21nU0FtOVNGeHBOY0YxSzQ=
     delayedInitialization: 0
     cameraDeviceModeSetting: -1
-    maxSimultaneousImageTargets: 1
+    maxSimultaneousImageTargets: 2
     maxSimultaneousObjectTargets: 1
     virtualSceneScaleFactor: 1
     useDelayedLoadingObjectTargets: 0
     modelTargetRecoWhileExtendedTracked: 1
     shareRecordingsInITunes: 0
     version: 9.8.13
-    eulaAcceptedVersions: '{"Values":["9.8"]}'
+    eulaAcceptedVersions: '{"Values":["9.8","10.7"]}'
   database:
     disableModelExtraction: 0
   shaders:
